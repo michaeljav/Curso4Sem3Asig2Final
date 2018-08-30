@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cvPets"
+    android:layout_width="wrap_content"
+    android:layout_height="170dp"
+    android:padding="6dp"
+    card_view:cardCornerRadius="@dimen/corner_cv">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imgPhotoMain"
+            android:layout_width="wrap_content"
+            android:layout_height="130dp"
+            android:src="@drawable/_curso3"
+
+
+            />
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center"
+            >
+
+            <TextView
+                android:id="@+id/tvlikes"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imgBoneWhite"
+                android:layout_width="22dp"
+                android:layout_height="40px"
+                android:src="@drawable/dog_bone_yellow_96" />
+
+
+        </LinearLayout>
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

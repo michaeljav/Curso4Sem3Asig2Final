@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "936773578715",
+    "firebase_url": "https://course4week3hw1petagram.firebaseio.com",
+    "project_id": "course4week3hw1petagram",
+    "storage_bucket": "course4week3hw1petagram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936773578715:android:da14541f7abbfdf1",
+        "android_client_info": {
+          "package_name": "com.exampleandroiddemottest.petagramrecyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936773578715-d73rp19mb72bjq1836m0rt2b9v3r2s97.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.exampleandroiddemottest.petagramrecyclerview",
+            "certificate_hash": "634e4716f48f7c5ee0c23d3da00a5e36c3882dc9"
+          }
+        },
+        {
+          "client_id": "936773578715-chbd3estvdjg3hkk70156s0ncf16h3gf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZJe8XeKhNXwmI0aH-eFuDzzI25TL7ijs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936773578715-chbd3estvdjg3hkk70156s0ncf16h3gf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
